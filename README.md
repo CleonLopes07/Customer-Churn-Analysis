@@ -1,4 +1,4 @@
-Customer Churn EDA Project Summary
+Customer Churn Analysis - Project Report
 
 
 1. About the Data
